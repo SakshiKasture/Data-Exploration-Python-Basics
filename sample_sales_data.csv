@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Date,Region
+1,Laptop,Electronics,1,1200,2023-01-01,North
+2,Jeans,Clothing,2,50,2023-01-02,South
+3,Phone,Electronics,1,800,2023-01-03,East
+4,Rice Bag,Groceries,5,20,2023-01-04,West
+5,T-Shirt,Clothing,3,30,2023-01-05,North
+6,Headphones,Accessories,1,100,2023-01-06,East
+7,Shoes,Clothing,2,60,2023-01-07,South
+8,Wheat Bag,Groceries,4,25,2023-01-08,West
+9,Tablet,Electronics,1,400,2023-01-09,North
+10,Socks,Clothing,6,10,2023-01-10,South
